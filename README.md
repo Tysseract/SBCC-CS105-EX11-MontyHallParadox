@@ -6,7 +6,7 @@ The purpose of this assignment is to learn how to do comparisons using the if st
 
 ### Problem Description
 
-The detailed description of this problem comes from the Programming Exercise E6.19 that is in the book (pages 300 & 301).
+The detailed description of this problem comes from the Programming Exercise P4.24 on page 192 of the Late Objects book (E6.19 on pages 300 & 301 in Early Objects).
 
 You are writing a program that runs experiments to test the Monty Hall Paradox. You will get two numbers on the command line (as strings in `args` of the `main` function). The first number is for the seed of the random number generator. You should use `java.util.Random` for this assignment. Not using this random number generator could result in different findings than in the unit tester. For example, you should create the random number generator thusly:
 
