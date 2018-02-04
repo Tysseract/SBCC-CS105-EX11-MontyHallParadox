@@ -31,7 +31,7 @@ Hints:
 
 ### Getting Started
 
-Like all of our exercises, so far, we are going to do this exercise by writing the source code that solves the problem first in **MontyHallParadox.java**. Using the techniques shown on the web page titled [How to Start Every Project in this Class](https://github.com/sbcc-cs105-spring2016/HowToStartEveryProject) create a source file called **MontyHallParadox.java**. This is where your code will go. 
+Like all of our exercises, so far, we are going to do this exercise by writing the source code that solves the problem first in **MontyHallParadox.java**. Using the techniques shown on the web page titled [How to Start Every Project in this Class](http://209.129.49.15:7990/projects/CS105F2016/repos/allan.knight/browse/HowToStartEveryProject.md) create a source file called **MontyHallParadox.java**. This is where your code will go. 
 
 Starting this week we don't have any code to copy for the assignment. You get to do it all! Don't forget to provide proper Javadoc documentation
 
