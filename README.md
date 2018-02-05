@@ -55,6 +55,6 @@ To start the process write click your project and select **Team -> Commit...** a
 
 Now to complete the turn-in process, once you confirmed that your code is on BitBucket, you need to create a **build plan** on Bamboo. This action will create a Bamboo build plan that will build and test your code every time you push code to your project. You can also run builds manually
 
-Follow the directions in [How to Turn in Every Project in This Class](http://crowd.cs.sbcc.edu:7990/projects/CS105/repos/allan.knight/browse/HowToTurnInEveryProjectInThisClass.md)
+Follow the directions in [How to Turn in Every Project in This Class](http://209.129.49.15:7990/projects/CS105/repos/allan.knight/browse/HowToTurnInEveryProjectInThisClass.md)
 
 **NOTE** You do not need to anything on Canvas to turn-in your assignment, but your grade will be posted on there so that you may track your progress throughout the term.
